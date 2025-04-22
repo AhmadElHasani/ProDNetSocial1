@@ -15,3 +15,4 @@ C:\Users\ahmad\Desktop\.Net\Corso net2\Mio\Proj1\Application\obj\Debug\net9.0\Ap
 C:\Users\ahmad\Desktop\.Net\Corso net2\Mio\Proj1\Application\obj\Debug\net9.0\refint\Application.dll
 C:\Users\ahmad\Desktop\.Net\Corso net2\Mio\Proj1\Application\obj\Debug\net9.0\Application.pdb
 C:\Users\ahmad\Desktop\.Net\Corso net2\Mio\Proj1\Application\obj\Debug\net9.0\ref\Application.dll
+C:\Users\ahmad\Desktop\.Net\Corso net2\Mio\Proj1\Application\obj\Debug\net9.0\Application.sourcelink.json

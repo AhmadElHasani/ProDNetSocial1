@@ -13,3 +13,4 @@ C:\Users\ahmad\Desktop\.Net\Corso net2\Mio\Proj1\Persistence\obj\Debug\net9.0\Pe
 C:\Users\ahmad\Desktop\.Net\Corso net2\Mio\Proj1\Persistence\obj\Debug\net9.0\refint\Persistence.dll
 C:\Users\ahmad\Desktop\.Net\Corso net2\Mio\Proj1\Persistence\obj\Debug\net9.0\Persistence.pdb
 C:\Users\ahmad\Desktop\.Net\Corso net2\Mio\Proj1\Persistence\obj\Debug\net9.0\ref\Persistence.dll
+C:\Users\ahmad\Desktop\.Net\Corso net2\Mio\Proj1\Persistence\obj\Debug\net9.0\Persistence.sourcelink.json
