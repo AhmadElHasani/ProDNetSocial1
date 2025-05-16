@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "37ScF2pAAVI=",
+  "dgSpecHash": "/wRdpirPy+E=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ahmad\\Desktop\\.Net\\Corso net2\\Mio\\Proj1\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\ahmad\\Desktop\\.Net\\Corso net2\\Mio\\Proj1\\api\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ahmad\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\ahmad\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",
