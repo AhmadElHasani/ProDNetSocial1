@@ -162,3 +162,6 @@ C:\Users\ahmad\Desktop\.Net\Corso net2\Mio\Proj1\API\bin\Debug\net9.0\client\pac
 C:\Users\ahmad\Desktop\.Net\Corso net2\Mio\Proj1\API\bin\Debug\net9.0\client\tsconfig.app.json
 C:\Users\ahmad\Desktop\.Net\Corso net2\Mio\Proj1\API\bin\Debug\net9.0\client\tsconfig.json
 C:\Users\ahmad\Desktop\.Net\Corso net2\Mio\Proj1\API\bin\Debug\net9.0\client\tsconfig.node.json
+C:\Users\ahmad\Desktop\.Net\Corso net2\Mio\Proj1\api\bin\Debug\net9.0\MediatR.dll
+C:\Users\ahmad\Desktop\.Net\Corso net2\Mio\Proj1\api\bin\Debug\net9.0\MediatR.Contracts.dll
+C:\Users\ahmad\Desktop\.Net\Corso net2\Mio\Proj1\API\bin\Debug\net9.0\AutoMapper.dll
